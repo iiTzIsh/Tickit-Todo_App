@@ -20,7 +20,6 @@ Here are some screenshots of the app in action:
 ![q1](https://github.com/user-attachments/assets/4a479c89-7608-4de3-a7f5-4dd222b1f638)
 ![q3](https://github.com/user-attachments/assets/74e6a845-828d-4ca1-af3e-52b0e7520b9c)
 ![q2](https://github.com/user-attachments/assets/ec051126-7356-4621-a6ec-a3592ea88242)
-![q1](https://github.com/user-attachments/assets/b811ce7f-321c-499e-9538-81780bc12928)
 ![q4](https://github.com/user-attachments/assets/715991d5-b3f9-4d84-b277-08d1cdcf5c86)
 
 ## Installation
