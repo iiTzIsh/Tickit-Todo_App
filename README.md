@@ -35,7 +35,7 @@ Here are some screenshots of the app in action:
 
 ## Technologies Used
 - Android Studio
-- Java/Kotlin (depending on your implementation)
+- Kotlin
 - SharedPreferences for data storage
 
 ## Contribution
